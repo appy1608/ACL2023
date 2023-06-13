@@ -1,6 +1,6 @@
 # ACL2023
 
-This is the official repository for the ACL 2023 full paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). This repository contains codebase, dataset and the annotation guidelines.
+This is the official repository for the ACL 2023 full paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). This repository contains all the necessary resources related to the paper.
 
 **Authors**
 Apoorva Singh*, Raghav Jain*, Prince Jha and Sriparna Saha
