@@ -2,12 +2,6 @@
 
 This is the repository for the ACL 2023 full paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). 
 
-**Authors**
-
-Apoorva Singh*, Raghav Jain*, Prince Jha and Sriparna Saha
-
-*:Denotes equal contribution.
-
 
 **X-CI Dataset**
 
