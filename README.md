@@ -1,6 +1,6 @@
 # ACL2023
 
-This is the repository for the ACL 2023 full paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). 
+This is the repository for our ACL 2023 (Mains) paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). 
 
 
 **X-CI Dataset**
