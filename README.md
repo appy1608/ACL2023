@@ -1,6 +1,6 @@
 # ACL2023
 
-This is the official repository for the ACL 2023 full paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). This repository contains all the necessary resources related to the paper.
+This is the repository for the ACL 2023 full paper [Peeking inside the black box: A Commonsense-Aware Generative Framework for Explainable Complaint Detection](https://2023.aclweb.org/program/accepted/#long-papers). 
 
 **Authors**
 
@@ -29,4 +29,22 @@ In circumstances where annotators disagree, the final label is determined throug
 
 **Citation**
 
-TBD
+@inproceedings{singh-etal-2023-peeking,
+    title = "Peeking inside the black box: A Commonsense-aware Generative Framework for Explainable Complaint Detection",
+    author = "Singh, Apoorva  and
+      Jain, Raghav  and
+      Jha, Prince  and
+      Saha, Sriparna",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.404",
+    doi = "10.18653/v1/2023.acl-long.404",
+    pages = "7333--7347",
+    abstract = "Complaining is an illocutionary act in which the speaker communicates his/her dissatisfaction with a set of circumstances and holds the hearer (the complainee) answerable, directly or indirectly. Considering breakthroughs in machine learning approaches, the complaint detection task has piqued the interest of the natural language processing (NLP) community. Most of the earlier studies failed to justify their findings, necessitating the adoption of interpretable models that can explain the model{'}s output in real time. We introduce an explainable complaint dataset, X-CI, the first benchmark dataset for explainable complaint detection. Each instance in the X-CI dataset is annotated with five labels: complaint label, emotion label, polarity label, complaint severity level, and rationale (explainability), i.e., the causal span explaining the reason for the complaint/non-complaint label. We address the task of explainable complaint detection and propose a commonsense-aware unified generative framework by reframing the multitask problem as a text-to-text generation task. Our framework can predict the complaint cause, severity level, emotion, and polarity of the text in addition to detecting whether it is a complaint or not. We further establish the advantages of our proposed model on various evaluation metrics over the state-of-the-art models and other baselines when applied to the X-CI dataset in both full and few-shot settings.",
+}
